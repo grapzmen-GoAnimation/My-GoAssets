@@ -904,6 +904,32 @@
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
     </facial>
+		<facial id="head_wtf" name="WTF" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="cry"/>
+        <selection type="eyebrow" state_id="angry"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="surprised"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
+		<facial id="head_wtf2" name="WTF 2" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="cry"/>
+        <selection type="eyebrow" state_id="angry"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="shock"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
     <facial id="head_sad" name="Sad" enable="Y">
         <selection type="beard" state_id="default"/>
         <selection type="ear" state_id="default"/>
@@ -22871,3 +22897,4 @@
         <state id="nothing" filename="nothing.swf"/>
     </component>
 </cc_theme>
+
